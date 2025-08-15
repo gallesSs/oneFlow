@@ -11,10 +11,10 @@ const Header = () => {
         <nav>
           <ul className="flex justify-center items-center gap-8 text-[#013A4C] leading-5 mr-8">
             <li className="mr-[30px]">
-              <a href="">Why Oneflow?</a>
+              <a href="#Hero">Why Oneflow?</a>
             </li>
             <li className="mr-[30px]">
-              <a href="">Learn</a>
+              <a href="#Learn">Learn</a>
             </li>
             <li>
               <a href="">Pricing</a>

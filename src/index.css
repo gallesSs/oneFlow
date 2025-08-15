@@ -5,3 +5,8 @@
   --font-sans: "Work Sans", sans-serif;
   --font-roboto: "Roboto", sans-serif;
 }
+
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
