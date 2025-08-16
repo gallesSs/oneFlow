@@ -9,6 +9,7 @@ import Reviews from "./components/Reviews/Reviews";
 import img from "/Video/video.png";
 import data from "./DATA/reviews.json";
 import Integrations from "./components/Integrations/Integrations";
+import Blog from "./components/Blog/Blog";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       <Demo />
       <Reviews data={data} />
       <Integrations />
+      <Blog />
     </>
   );
 }
