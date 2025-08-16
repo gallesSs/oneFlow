@@ -8,6 +8,7 @@ import Partners from "./components/Partners/Partners";
 import Reviews from "./components/Reviews/Reviews";
 import img from "/Video/video.png";
 import data from "./DATA/reviews.json";
+import Integrations from "./components/Integrations/Integrations";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Advantages />
       <Demo />
       <Reviews data={data} />
+      <Integrations />
     </>
   );
 }
