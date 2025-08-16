@@ -1,5 +1,5 @@
-import logo from "/public/Header/logo.svg";
-import lang from "/public/Header/lang.svg";
+import logo from "/Header/logo.svg";
+import lang from "/Header/lang.svg";
 
 const Header = () => {
   return (
