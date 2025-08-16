@@ -5,7 +5,9 @@ import Hero from "./components/Hero/Hero";
 import Learn from "./components/Learn/Learn";
 import Operations from "./components/Operations/Operations";
 import Partners from "./components/Partners/Partners";
+import Reviews from "./components/Reviews/Reviews";
 import img from "/Video/video.png";
+import data from "./DATA/reviews.json";
 
 function App() {
   return (
@@ -20,6 +22,7 @@ function App() {
       </section>
       <Advantages />
       <Demo />
+      <Reviews data={data} />
     </>
   );
 }

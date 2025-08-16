@@ -1,0 +1,32 @@
+[
+    {
+        "comment": "“With Oneflow, I’ve been able to reduce the time spent on admin significantly. Every hour that I used to spend on admin, can now be spent on selling and closing!”",
+        "url": "/public/Reviews/review1.png",
+        "name": "Mattias Johnson",
+        "job": "Key Account Manager",
+        "city": "Sweco",
+        "id": 1
+    },
+        {
+        "comment": "“The fact that Oneflow is 100% digital makes it so simple and flexible. It gives us peace of mind by providing control and a complete overview of our contract process at all times.”",
+        "url": "/public/Reviews/review2.png",
+        "name": "Elin Skoglund",
+        "job": "HR Business Partner",
+        "city": "Hedin Bil",
+        "id": 2
+    },    {
+        "comment": "“From board meeting protocols to GDPR agreements, and approval of keycards — Oneflow has removed the pains we weren’t even aware of.”",
+        "url": "/public/Reviews/review3.png",
+        "name": "Tor Myhrman",
+        "job": "Head of Indirect Sourcing",
+        "city": "Systembolaget",
+        "id": 3
+    },    {
+        "comment": "“With Oneflow, it’s very easy to create contracts and templates. Instead of uploading a PDF for signing, we create the contract on the same platform as we sign. And Oneflow’s templates make it very easy to create multiple contracts in one click.”",
+        "url": "/public/Reviews/review4.png",
+        "name": "Jonatan Larsson",
+        "job": "Head of People",
+        "city": "Kundo",
+        "id": 4
+    }
+]
