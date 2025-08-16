@@ -1,8 +1,10 @@
+import Advantages from "./components/Advantages/Advantages";
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Learn from "./components/Learn/Learn";
 import Operations from "./components/Operations/Operations";
 import Partners from "./components/Partners/Partners";
+import img from "/Video/video.png";
 
 function App() {
   return (
@@ -12,6 +14,10 @@ function App() {
       <Partners />
       <Learn />
       <Operations />
+      <section>
+        <img src={img} alt="" />
+      </section>
+      <Advantages />
     </>
   );
 }
