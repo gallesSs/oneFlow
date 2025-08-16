@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <section
-      className="scroll-mt-6 bg-[url('/Hero/Hero.png')] bg-no-repeat w-full bg-center h-[770px] flex flex-col justify-center"
+      className="scroll-mt-6 bg-[url('/Hero/Hero.png')] bg-cover bg-no-repeat w-full bg-center h-[770px] flex flex-col justify-center"
       id="Hero">
       <div className="flex flex-col justify-center ml-[144px] gap-6">
         <h1 className="text-[#013A4C] font-roboto text-[76px] leading-[78px] mb-[6px]">

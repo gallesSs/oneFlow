@@ -4,7 +4,7 @@ import img3 from "/Advantages/img3.svg";
 
 const Advantages = () => {
   return (
-    <section className="h-[2432px] px-[144px] pt-[122px] bg-[url('/Advantages/bg.png')] flex flex-col gap-[153px] items-center">
+    <section className="h-[2432px] px-[144px] pt-[122px] bg-no-repeat bg-cover bg-[url('/Advantages/bg.png')] flex flex-col gap-[153px] items-center">
       <h2 className="text-[#013A4C] font-roboto text-[80px] leading-20 font-bold text-center max-w-[730px]">
         The complete platform for smart contracts
       </h2>

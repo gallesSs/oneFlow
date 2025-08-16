@@ -1,4 +1,5 @@
 import Advantages from "./components/Advantages/Advantages";
+import Demo from "./components/Demo/Demo";
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Learn from "./components/Learn/Learn";
@@ -15,9 +16,10 @@ function App() {
       <Learn />
       <Operations />
       <section>
-        <img src={img} alt="" />
+        <img src={img} className="w-full" alt="" />
       </section>
       <Advantages />
+      <Demo />
     </>
   );
 }
